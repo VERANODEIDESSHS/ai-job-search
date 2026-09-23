@@ -16,8 +16,8 @@ allowed-tools: Read, Glob, Grep, WebFetch, WebSearch, Edit, Write, AskUserQuesti
 When the user provides a job posting (URL or text), follow this workflow:
 
 ### Step 1: Research & Evaluate Fit
-- If a `web-job-brief` is already in context (or `job_briefs/<company>-<role>.md` exists), reuse it and only WebFetch if must-haves or the apply URL are missing
-- Fetch the job posting content (use WebFetch for URLs)
+- If a `web-job-brief` is already in context (or `job_briefs/<company-slug>-<role-slug>.md` exists — slugify: lowercase, spaces to hyphens, strip special characters), reuse it and only fetch the posting if must-haves or the apply URL are missing
+- Otherwise fetch the job posting content (use WebFetch for URLs)
 - Analyze the posting for required competencies, keywords, and priorities
 - Research the company (website, LinkedIn, mission, recent news)
 - Score the posting against the candidate's profile using the framework in `04-job-evaluation.md`

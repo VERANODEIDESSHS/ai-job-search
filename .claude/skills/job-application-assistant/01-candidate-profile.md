@@ -7,8 +7,8 @@
 - **Location:** St. Augustine, FL, USA
 - **Phone:** (207) 468-6688
 - **Email:** hatcheric950@gmail.com
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
+- **LinkedIn:** not on source resume — add via `/setup --section` when available
+- **GitHub:** not on source resume — add via `/setup --section` when available
 - **Languages:** English (native)
 - **Status:** Employed (Volkswagen of St. Augustine) + Founder (NEXUS AI Agency)
 - **Constraints:** Open to remote / nationwide US roles; Northeast Florida on-site acceptable; relocation-required roles need discussion
