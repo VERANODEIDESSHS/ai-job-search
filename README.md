@@ -26,19 +26,25 @@ An AI-powered job application framework built on [Claude Code](https://claude.co
 A structured workflow that turns Claude Code into a full-stack job application assistant. The core workflow (self-profiling, fit evaluation, and the drafter-reviewer application pipeline) is **language- and country-agnostic**. The job portal search skills are built for the Danish market (Jobindex, Jobnet, Akademikernes Jobbank, etc.), but the pattern is designed to be swapped for your local job boards.
 
 ```
-/setup          /scrape              /apply <url>
-  |                |                     |
-  v                v                     v
-Fill in        Search job           Evaluate fit
-your profile   portals              Score & recommend
-  |                |                     |
-  v                v                     v
-Profile        Present matches      Draft CV + Cover Letter
-files ready    with fit ratings     (LaTeX, tailored)
-                   |                     |
-                   v                     v
-               Pick a match         Reviewer agent critiques
-               -> /apply            -> Revise -> Final output
++-------------  outcomes recalibrate the fit framework  -------------+
+|                                                                    |
+v                                                                    |
+/setup      profile from documents/, a pasted CV, or an interview    |
+v                                                                    |
+/expand     enrich it from GitHub, a portfolio, Scholar, syllabi     |
+v                                          /add-portal --+           |
+/scrape     search the portals, dedupe across runs   <---+           |
+v                                                                    |
+/rank       batch-score the scrape into a ranked shortlist           |
+v                                        /add-template --+           |
+/apply      fit -> draft -> reviewer agent -> revise <---+           |
+|           -> compile PDFs -> ATS text-layer check -> final output  |
+v                                                                    |
+/outcome <--> /interview                                             |
+|           record each stage; prep the next from that archive       |
++--------------------------------------------------------------------+
+|
++--> /upskill   gap heatmap + learning plan, between applications
 ```
 
 The framework encodes career guidance best practices, including structured evaluation criteria, forward-looking cover letter framing, and optional salary benchmarking.
