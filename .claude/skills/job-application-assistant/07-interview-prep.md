@@ -1,6 +1,6 @@
 # Interview Preparation Guide
 
-<!-- SETUP: STAR examples personalized for Eric Hatch from resume achievements -->
+<!-- SETUP: STAR examples drafted for Hiramis Castillo Barraza from resume achievements. Situation details are generalized — fill in specifics (project names, amounts, timelines) before interviews. -->
 
 ## STAR Format
 
@@ -10,50 +10,50 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-### 1. VW #1 Sales Performance (Results ownership / customer lifecycle)
-**S:** At Volkswagen of St. Augustine, I competed in a high-volume retail environment with digital leads and complex product/financing conversations.
-**T:** Own the full customer lifecycle and consistently deliver top-tier sales results while improving retention after delivery.
-**A:** Used CRM/DMS discipline across phone, email, text, FaceTime, and personalized video; translated product and technology options into clear recommendations; produced video/social content to support inbound demand.
-**R:** Ranked #1 salesperson five times; closed 12–15 vehicles/month; generated $2M+ annual revenue; +30% client retention; +40% online engagement; +20% closing rates.
-**Use for:** "Tell me about a time you owned a metric", "How do you handle complex customer questions?", "Describe high performance under pressure"
+### 1. Import Cost Reduction at Office Depot Panamá (Negotiation / cost savings)
+**S:** As Imports Coordinator at Office Depot Panamá, import costs were eating into margins. [Add: which product lines or suppliers, and approximate spend.]
+**T:** Reduce import costs without disrupting supply.
+**A:** Ran detailed rate analysis and invoice review, then used the findings to negotiate with suppliers and carriers.
+**R:** Reduced import costs by up to 50%. Also reconciled vendor and carrier statements against shipment and customs records to catch billing errors before payment.
+**Use for:** "Tell me about a successful negotiation", "How have you saved money for an employer?", "Describe using data to make a decision"
 
-### 2. NEXUS Follow-Up Automation (AI automation / process improvement)
-**S:** A client was spending more than 3 hours daily on manual outreach and follow-up, with inconsistent messaging and weak documentation.
-**T:** Design a practical AI-assisted workflow that cut time without losing personalization or accountability.
-**A:** Audited the process, built structured ChatGPT/Claude workflows and SOPs for lead generation and customer follow-up, and trained the client on the new pipeline.
-**R:** Reduced daily follow-up from 3+ hours to under 30 minutes while producing reusable documentation for content and communication pipelines.
-**Use for:** "Describe a process you automated", "How have you used AI in real work?", "Give an example of ROI from a project"
+### 2. Supplier Evaluation & Invoice-Review Protocols at Bouygues (Process improvement / vendor accountability)
+**S:** On high-value construction projects at Bouygues Bâtiment International, vendor billing accuracy and accountability needed tightening. [Add: project type and scale.]
+**T:** As Purchaser, own procure-to-pay while protecting margins and keeping documentation audit-ready.
+**A:** Implemented supplier evaluation and invoice-review protocols; analyzed cost data and vendor performance to guide sourcing decisions.
+**R:** Strengthened vendor accountability and improved billing accuracy. [Add a number if available: error rate, savings, or turnaround.]
+**Use for:** "Describe a process you improved", "How do you manage underperforming suppliers?", "Tell me about compliance"
 
-### 3. Shultz & Lyman Account Coordination (CRM / operations partnership)
-**S:** At Shultz and Lyman I managed B2B/B2C accounts where quoting, fulfillment, and delivery delays were hurting trust.
-**T:** Grow portfolios while improving on-time fulfillment through better coordination with operations.
-**A:** Ran Salesforce CRM pipeline hygiene, weekly field visits to 10+ corporate accounts, negotiated contracts, and coordinated cross-functionally with ops on order timing.
-**R:** Expanded client portfolios by 15%; maintained 98% on-time fulfillment; helped reduce delivery delays by 25%.
-**Use for:** "Tell me about cross-functional collaboration", "How do you use a CRM?", "Describe solving an operational problem"
+### 3. Fast Promotion at Arista de Panamá (Ownership / performance)
+**S:** Joined Arista de Panamá as Logistics Coordinator.
+**T:** Handle shipment tracking and resolve discrepancies with carriers and customers.
+**A:** Communicated proactively, resolved discrepancies quickly, and took on invoice audits against tariff and rate schedules.
+**R:** Promoted to Operations and Logistics Coordinator after 7 months; went on to streamline settlement and documentation processes and reduce turnaround times.
+**Use for:** "Tell me about yourself", "Describe going above your role", "Why should we hire you?"
 
-### 4. Linux & Cyber Home Lab (Self-directed learning / IT foundations)
-**S:** I wanted formal IT and cybersecurity foundations beyond sales work, without waiting for a first helpdesk title.
-**T:** Build hands-on practice that backs CompTIA A+ and the Google Cybersecurity Certificate with real troubleshooting reps.
-**A:** Operated a multi-computer lab for Linux administration, CLI practice, networking/security fundamentals, and automation experiments; published 10+ AI automation/bot projects on GitHub.
-**R:** Sustained practice environment that supports IT support and junior cybersecurity conversations with concrete examples, not just certificate names.
-**Use for:** "How do you learn new technology?", "Why IT/cybersecurity now?", "Describe a personal project"
+### 4. HTS Classification to Reduce Duties at S&S Synthetic Grass (Trade compliance / analytical precision)
+**S:** At S&S Synthetic Grass and Landscaping, imported goods needed correct tariff classification under tight timelines.
+**T:** Keep imports compliant while minimizing duty cost.
+**A:** Classified goods per the Harmonized Tariff Schedule, prepared compliance and billing documentation, and worked with customs officials and carriers.
+**R:** Reduced import duties while keeping procurement compliant with import regulations. [Add a figure if available.]
+**Use for:** "Describe your customs/compliance experience", "Tell me about working under deadline pressure"
 
 ## Common Tough Questions
 
-### "Why are you leaving sales / pivoting into IT?"
-> I'm not abandoning customer skills — I'm directing them. Five years of high-performance customer work taught me how to diagnose needs and explain tech clearly. CompTIA A+, Google Cybersecurity, my home lab, and NEXUS automation work are the deliberate bridge into IT support, technical customer success, and cybersecurity foundations.
+### "Your experience is all in Panamá. How does it transfer to the US?"
+> Procurement, invoice audit, and customs compliance follow the same disciplines everywhere, and I've worked across the Caribbean, Latin America, and Asia. I bring bilingual Spanish/English capability and direct experience with the Latin American suppliers and trade lanes many US companies rely on. I'm also completing the CPSM to align with US supply-management standards.
 
-### "You don't have formal helpdesk / SOC experience."
-> True on production ticketing/SOC tenure. What I do have: CompTIA A+, Google Cybersecurity Certificate, Linux/Windows/macOS troubleshooting practice, remote-support fundamentals, and documented automation SOPs. I'm ready to learn your stack quickly and communicate clearly with users while I build depth.
+### "What have you been doing since 2023?"
+> [TO CONFIRM with candidate — e.g. relocation to Florida, Supply Chain Elements (2024) and CPSM study.] Keep it factual and short, then pivot to readiness.
+
+### "Which ERP systems have you used?"
+> [TO CONFIRM with candidate.] If none by name: strong Excel analysis and reporting, plus a track record of learning company systems quickly.
 
 ### "Where do you see yourself in 5 years?"
-> A trusted technical support or customer-success professional with growing cybersecurity or AI-ops specialization — still customer-facing, but deeper in systems and security.
-
-### "What's your biggest weakness?"
-> Depth in enterprise security operations is early. I mitigate by structured cert study, lab reps, documenting what I learn, and being honest about what I haven't run in production yet.
+> [TO CONFIRM] e.g. a senior buyer or procurement specialist leading supplier strategy, CPSM certified.
 
 ### "Why this company specifically?"
-> Customize per company. Must reference: specific products, support model, automation/security stack, or team mission. Never give a generic answer.
+> Customize per company. Reference specific products, supply base, trade lanes, or growth plans. Never give a generic answer.
 
 ## Questions You Should Ask Interviewers
 
@@ -63,20 +63,19 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 - "What's the biggest challenge the team is facing right now?"
 
 ### About the Team
-- "How big is the team, and how do you divide work?"
-- "What does the ticket / incident lifecycle look like from intake to resolution?"
+- "How big is the procurement team, and how is the spend divided?"
+- "How do purchasing, AP, and logistics hand off work?"
 - "How do you onboard new team members?"
 
-### About Tech & Growth
-- "What's your current stack for support tooling, CRM, and security monitoring?"
-- "Is there room to grow into cybersecurity or automation work from this seat?"
-- "How does the team stay current with new tools and methods?"
+### About Systems & Growth
+- "Which ERP and procurement tools do you use?"
+- "Who are your key suppliers and which regions do you source from?"
+- "Is there support for professional certification such as CPSM?"
 
 ### About Culture (use these to prevent disappointment)
 - "How would you describe the team culture?"
 - "What does professional development look like here?"
 - "Is there flexibility for remote/hybrid work?"
-- "What's the balance between new projects and day-to-day support?"
 - "How would you describe the leadership style in this team?"
 - "What do people who thrive here have in common?"
 

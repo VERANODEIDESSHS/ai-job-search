@@ -1,88 +1,101 @@
 # Candidate Profile
 
-<!-- SETUP: Populated from Eric Hatch resume via /setup Path B -->
+<!-- SETUP: Populated from Hiramis__Resume.pdf via /setup Path B -->
 
 ## Identity
-- **Name:** Eric Hatch
-- **Location:** St. Augustine, FL, USA
-- **Phone:** (207) 468-6688
-- **Email:** hatcheric950@gmail.com
+- **Name:** Hiramis Castillo Barraza
+- **Location:** St. Augustine, FL 32080, USA
+- **Phone:** 904-580-1586
+- **Email:** hcast@icloud.com
 - **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Languages:** English (native)
-- **Status:** Employed (Volkswagen of St. Augustine) + Founder (NEXUS AI Agency)
-- **Constraints:** Open to remote / nationwide US roles; Northeast Florida on-site acceptable; relocation-required roles need discussion
+- **Languages:** Spanish (native/bilingual), English (full professional), French (professional working)
+- **Status:** [TO CONFIRM] Current employment status and US work authorization; last listed role ended 04/2023
+- **Constraints:** [TO CONFIRM] Default: Northeast Florida on-site/hybrid or US remote; relocation needs discussion
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| Business Administration / Marketing Coursework | — | Nichols College and Southern New Hampshire University | Business administration, marketing |
+| MBA – Development Projects Evaluation | — | Universidad Latinoamericana de Comercio Exterior | Project evaluation |
+| Postgraduate – Strategic Administration and Business Management | — | Universidad Latinoamericana de Comercio Exterior | Strategic administration, business management |
+| Bachelor's – International Commerce and Logistics | — | Universidad Latina de Panamá | International trade, logistics |
 
 ## Professional Experience
 
-### Founder & AI Automation Strategist - NEXUS AI Agency (2024 - Present)
-Remote
-- Built an AI-powered marketing and automation practice covering discovery, workflow strategy, implementation, client communication, and documentation
-- Audit business operations to identify repetitive work and convert it into practical AI-assisted workflows using ChatGPT, Claude, and structured process design
-- Create SOPs for content production, lead generation, customer follow-up, and communication pipelines while explaining technical concepts in outcome-focused language
+### Purchaser - Bouygues Bâtiment International (09/2020 - 04/2023)
+Panamá
+- Promoted to Purchaser after building a strong foundation in logistics, invoice-audit, and financial-documentation operations
+- Managed the full procurement-to-payment lifecycle on high-value construction projects, including vendor/carrier selection, rate negotiation, and order settlement, ensuring financial compliance and audit-ready supporting documentation
+- Analyzed cost data and vendor performance to inform decisions and identify savings opportunities across the supply chain
+- Implemented supplier evaluation and invoice-review protocols that strengthened vendor accountability and improved billing accuracy
 
-### Vehicle Experience Specialist - Volkswagen of St. Augustine (Jan 2023 - Present)
-St. Augustine, FL
-- Ranked #1 salesperson five times; consistently top regional tier; closed 12–15 vehicles per month; generated more than $2 million in annual revenue
-- Managed the complete customer lifecycle from digital lead and needs analysis through financing coordination, delivery, and post-sale support using CRM and dealership systems
-- Increased client retention by 30% through disciplined CRM-based follow-up across phone, email, text, FaceTime, and personalized video
-- Produced video and social media content that increased dealership online engagement by 40% and supported inbound demand
-- Improved closing rates by 20% by translating complex product, technology, financing, and payment options into clear customer recommendations
+### Logistics Specialist - Bouygues Bâtiment International (06/2018 - 09/2020)
+Panamá
+- Partnered directly with finance teams to maintain precise expenditure tracking, auditing vendor invoices against purchase orders and contracted terms, and resolving billing discrepancies to keep spend within budget
+- Coordinated logistics operations for high-value construction projects, tracking shipments and maintaining accurate delivery records
 
-### Outside Sales Associate - Shultz and Lyman (Jan 2021 - Jan 2023)
-Augusta, ME
-- Managed B2B and B2C account development, client retention, quoting, and pipeline activity using Salesforce CRM and digital sales workflows
-- Conducted weekly field visits to 10+ corporate accounts, negotiated contracts, and expanded client portfolios by 15%
-- Maintained a 98% on-time order fulfillment rate and helped reduce delivery delays by 25% through cross-functional coordination with operations
+### Imports Coordinator - Office Depot Panamá (10/2017 - 06/2018)
+Panamá
+- Negotiated with suppliers to reduce import costs by up to 50% through detailed rate analysis and invoice review
+- Reconciled vendor and carrier statements against shipment and customs records, ensuring regulatory compliance and financial accuracy
+- Managed customs and compliance documentation, cross-verifying entries line by line to catch and correct billing errors before payment
 
-### Entrepreneur - E-Commerce & Photography Operations - Self-Employed (2020 - 2021)
-Remote / Maine
-- Built and operated Shopify and Amazon storefronts, managing listings, customer communication, digital operations, and order workflows
-- Managed photography editing workflows, file organization, client deliverables, software setup, and day-to-day technical troubleshooting
+### Operations and Logistics Coordinator - Arista de Panamá, S.A. (03/2014 - 07/2017)
+Panamá
+- Promoted to Operations and Logistics Coordinator after 7 months in recognition of strong performance
+- Conducted detailed vendor and carrier invoice audits against contracted tariff and rate schedules, identifying cost-saving opportunities and preventing financial losses
+- Maintained compliance with international regulations across large-scale procurement and logistics projects
+- Streamlined settlement and documentation processes, reducing turnaround times and improving cross-team coordination
 
-## Independent Projects
-- **EricBot - AI Automation Agent**: Hermes-inspired personal automation agent demonstrating prompt design, agent workflows, task orchestration, and self-directed technical execution; reusable workflow logic and documentation for task assistance and business operations
-- **NEXUS AI Agency Automation Systems**: Client workflows for lead generation, content production, customer follow-up, and SOP documentation using ChatGPT and Claude; reduced a client follow-up process from more than 3 hours of daily manual outreach to under 30 minutes
-- **Linux & Cybersecurity Home Lab**: Multi-computer environment for Linux administration, CLI practice, troubleshooting, security fundamentals, and automation experimentation; GitHub portfolio with 10+ AI automation, bot, and application projects
+### Logistics Coordinator - Arista de Panamá, S.A. (08/2013 - 03/2014)
+Panamá
+- Tracked shipments and orders, communicating status and resolving discrepancies with carriers and customers
+- Supported day-to-day logistics operations with carriers and internal teams
 
-## Technical Skills
+### Logistics and Administration Specialist - S&S Synthetic Grass and Landscaping Inc. (07/2010 - 05/2012)
+Panamá
+- Optimized costs by classifying goods per the Harmonized Tariff Schedule to reduce import duties
+- Ensured procurement compliance with import regulations, preparing compliance and billing documentation under tight timelines
+- Built working relationships with customs officials and carriers to secure reliable delivery schedules
 
-### IT Support & Systems
-- **Windows, macOS, Linux / Pop!_OS**: hardware and software troubleshooting, system setup, remote-support fundamentals
-- **Developer & Systems**: GitHub, command-line workflows, self-hosted systems, OVH VPS experimentation, project documentation
+### Sales and Imports Assistant - Importadora y Exportadora Caribe (01/2009 - 12/2010)
+Panamá
+- Managed vendor files and purchase orders with high accuracy; coordinated supplier deliveries
 
-### AI & Automation
-- ChatGPT, Claude, Claude Code, prompt engineering, AI agents, workflow design, SOPs, lead and customer follow-up automation
+### Traffic Manager - Bio Científica S.A. (05/2007 - 12/2009)
+Panamá
+- Managed procurement and logistics for imports, leveraging carrier relationships for timely delivery and accurate freight billing
+- Developed cost/margin reports to standardize settlement and documentation processes
 
-### Cybersecurity Foundations
-- Networking and security fundamentals, Linux commands, threat detection awareness, incident response basics, risk and compliance awareness
+## Core Skills
 
-### Business Platforms
-- Salesforce, automotive CRM / DMS, Smartsheet, Microsoft 365, Google Workspace, LinkedIn Sales Navigator
+### Procurement & Sourcing
+- End-to-end procurement, procure-to-pay, vendor/supplier negotiation and management, supplier evaluation and performance management, contract and purchase order management
 
-### Client & Revenue Skills
-- Technical communication, customer discovery, stakeholder training, pipeline management, B2B / B2C consultative sales
+### Cost & Financial Control
+- Cost reduction, rate/spend analysis, invoice auditing, financial reconciliation, cost/margin reporting
+
+### Logistics & Trade Compliance
+- International logistics, customs compliance, import/export regulatory compliance, Harmonized Tariff Schedule classification, shipment tracking, carrier management
+
+### Tools
+- Microsoft Excel (data analysis and reporting), Microsoft Project
+
+### Communication
+- Bilingual Spanish/English, professional French; cross-functional coordination across finance, logistics, and operations
 
 ## Certifications
-- CompTIA A+ Certification
-- Google Cybersecurity Professional Certificate
-- Volkswagen Level 3 Master Certification
-- HubSpot Social Media Marketing Certification
-- Sandler Sales Training
-- Communities: AI Automation Club; coding and AI-agent workflow coursework
+- Certified Professional in Supply Management (CPSM) — In Progress
+- Supply Chain Elements — 2024
+- Demand Planner — 2023
+- Transport Operations — 2023
+- Microsoft Project Management
 
 ## Publications
 None listed.
 
 ## Awards
-- #1 Salesperson, Volkswagen of St. Augustine — 5 times; Employee of the Month — 3 times
-- Sales Excellence Award, Shultz and Lyman
+None listed. Internal promotions: Arista de Panamá (after 7 months); Bouygues Bâtiment International (Logistics Specialist to Purchaser).
 
 ## References
-More references available upon request.
+Available upon request.

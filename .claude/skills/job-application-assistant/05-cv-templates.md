@@ -39,18 +39,19 @@ Expected output: `Output written on main_<company>.pdf (2 pages, ...)`. Any page
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={Eric Hatch - CV},
+    pdftitle={Hiramis Castillo Barraza - CV},
     pdfpagemode=FullScreen,
 }
 \usepackage[scale=0.77]{geometry}
 \usepackage{import}
 
 % Personal data
-\name{Eric}{Hatch}
-\address{St. Augustine, FL, USA}{}{}
-\phone[mobile]{(207) 468-6688}
-\email{hatcheric950@gmail.com}
-% LinkedIn / GitHub URLs not on source resume — add when available
+\name{Hiramis}{Castillo Barraza}
+\address{St. Augustine, FL 32080, USA}{}{}
+\phone[mobile]{904-580-1586}
+\email{hcast@icloud.com}
+\extrainfo{Bilingual: Spanish / English}
+% LinkedIn URL not on source resume — add when available
 
 \begin{document}
 \makecvtitle
@@ -105,18 +106,15 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: Populated for Eric Hatch -->
-**For IT Support / Help Desk / Desktop Support roles:**
-> CompTIA A+ certified IT professional with hands-on Linux, Windows, and macOS troubleshooting experience, remote-support fundamentals, and a self-built cybersecurity home lab. Combines technical problem-solving with 5+ years of high-performance customer-facing work — translating complex technology into clear outcomes and documenting repeatable SOPs.
+<!-- SETUP: Populated for Hiramis Castillo Barraza -->
+**For Procurement / Purchasing / Buyer roles:**
+> Procurement professional with 10+ years managing the full procure-to-pay lifecycle on high-value construction, retail, and logistics operations. Negotiated supplier and carrier rates that cut import costs by up to 50%, and implemented supplier evaluation and invoice-review protocols that improved billing accuracy. Bilingual Spanish/English; CPSM in progress.
 
-**For AI Automation / Workflow Automation roles:**
-> AI automation strategist and founder who designs practical ChatGPT/Claude agent workflows, SOPs, and follow-up systems for real client operations. Reduced one client's daily manual outreach from 3+ hours to under 30 minutes. Comfortable with GitHub, CLI workflows, VPS experimentation, and teaching non-technical stakeholders how to use automation safely.
+**For Import/Export, Logistics & Trade Compliance roles:**
+> International logistics and imports specialist experienced in customs documentation, Harmonized Tariff Schedule classification, and import/export regulatory compliance across the Caribbean, Latin America, and Asia. Reconciles carrier and vendor statements against shipment and customs records to keep spend accurate and files audit-ready. Bilingual Spanish/English.
 
-**For Junior Cybersecurity / SOC Foundations roles:**
-> Google Cybersecurity Professional Certificate holder with CompTIA A+, Linux command-line practice, and a multi-computer home lab focused on networking, threat-detection awareness, and incident-response basics. Brings strong documentation habits and customer communication from technical sales into security-aware support roles.
-
-**For Technical Customer Success roles:**
-> Technical customer success profile: Salesforce and automotive CRM lifecycle ownership, Sandler sales training, and a track record of retention (+30%) and engagement (+40%) gains. Pairs CRM discipline with AI-assisted follow-up automation and clear product/technology explanations for B2B and B2C customers.
+**For Invoice / Freight Audit & Supply Chain Analyst roles:**
+> Detail-driven supply chain professional who audits vendor and carrier invoices against purchase orders, contracts, and tariff schedules, catching billing errors before payment. Uses Excel-based cost, rate, and margin analysis to inform sourcing decisions and identify savings; certified in Supply Chain Elements, Demand Planner, and Transport Operations.
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.
