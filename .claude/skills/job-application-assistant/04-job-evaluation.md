@@ -1,6 +1,6 @@
 # Job Evaluation Framework
 
-<!-- SETUP: Skill match areas and career goals personalized for Eric Hatch -->
+<!-- SETUP: Skill match areas and career goals personalized for Hiramis Castillo Barraza (career goals and constraints pending confirmation) -->
 
 ## Scoring Dimensions
 
@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** IT support fundamentals (Windows/macOS/Linux troubleshooting), AI automation (ChatGPT/Claude/agents/SOPs), technical customer success, CRM (Salesforce / automotive DMS), technical sales communication
-**Moderate match areas:** Cybersecurity foundations (Google Cybersecurity Certificate, networking/IR awareness, home lab), GitHub/CLI/VPS, Smartsheet/M365/Google Workspace, content/social for inbound
-**Weak match areas:** Senior SOC / penetration testing, deep cloud architecture (AWS/Azure multi-account), software engineering as primary IC role, formal MSP ticketing tenure at scale
+**Strong match areas:** End-to-end procurement / procure-to-pay, vendor and supplier negotiation, cost reduction and rate/spend analysis, invoice auditing and reconciliation, international logistics and customs compliance, bilingual Spanish/English
+**Moderate match areas:** Contract and PO management, supplier performance management, Harmonized Tariff Schedule classification, demand planning and transport operations (certificates), Microsoft Excel reporting, Microsoft Project
+**Weak match areas:** Named ERP systems (SAP, Oracle, NetSuite) unless confirmed, licensed US customs brokerage, US-specific regulations (FAR/government procurement), advanced analytics (SQL, Power BI, Python), people management of large teams
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -30,9 +30,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** High-performance customer-facing sales, CRM lifecycle management, AI automation consulting/founder work, technical product explanation
-**Moderate:** E-commerce/ops troubleshooting, Linux/cyber home lab projects, certification-backed IT foundations
-**Entry-level:** Dedicated help desk / desktop support roles, junior cybersecurity / SOC analyst roles (certs + labs, limited production SOC tenure)
+**Strong:** Purchasing / procurement on high-value construction projects, import coordination, logistics coordination, invoice and freight audit
+**Moderate:** Supply chain analysis, demand planning (certificate-level), operations coordination across finance/logistics
+**Entry-level / gap:** US-market experience (all roles in Panamá), roles requiring specific US ERP tenure, senior strategic sourcing leadership
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -47,10 +47,14 @@ Does the role and company culture match the behavioral profile?
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Remote / nationwide US: PASS
-- St. Augustine FL / Northeast Florida / Jacksonville metro on-site or hybrid: PASS
-- Requires relocation outside preferred scope: FLAG (discuss with user; default FAIL if mandatory relocation with no remote option)
-- Frequent international travel: FLAG (discuss with user)
+- St. Augustine FL / St. Johns County / Jacksonville metro on-site or hybrid: PASS
+- US remote: PASS
+- Elsewhere in Florida (hybrid, longer commute): FLAG (confirm with user)
+- Requires relocation outside Florida: FLAG (default FAIL unless user confirms openness)
+- Requires US work authorization / no sponsorship: PASS (green card holder)
+- ITAR / EAR "U.S. person" requirement: PASS (lawful permanent resident qualifies)
+- Posting explicitly states "U.S. citizenship required" (common for security clearances and some Public Trust roles): FAIL until naturalization completes; note as "revisit after citizenship"
+- Federal contractor or Public Trust **without** an explicit citizenship statement: PASS, but flag for the user to confirm eligibility (many accept lawful permanent residents)
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -62,20 +66,20 @@ Does this role advance career goals and contain tasks that energize?
 | 40-59 | Decent job but doesn't build toward career goals |
 | 0-39 | Dead end or backwards step |
 
-**Career goals:**
-- Move into IT support / technical customer success with a clear path into cybersecurity or AI ops
-- Apply AI automation skills to real business workflows (SOPs, follow-up, ops)
-- Build formal IT/security experience on top of CompTIA A+ and Google Cybersecurity foundations
+**Career goals:** *(inferred from resume — confirm with user)*
+- Re-establish a procurement / purchasing career in the US (Northeast Florida or remote)
+- Grow toward senior buyer / procurement specialist, supported by CPSM certification
+- Leverage bilingual Spanish/English and Latin America trade experience
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: troubleshooting, documenting SOPs, building AI workflows, helping customers understand tech, measurable ownership
-- Tasks that drain: pure cold-call quota with no technical learning; static admin with no process improvement
+- Tasks that energize (inferred): negotiating savings, vendor management, cost analysis, making processes audit-ready
+- Tasks that drain (inferred): pure data entry with no ownership; quota-driven sales
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: Currently dual-employed (VW + NEXUS); prefer roles that stabilize IT/tech career path
-- **Flexibility**: Remote / nationwide preferred; local FL on-site OK
-- **Professional development**: Certs, labs, and hands-on tooling growth matter
+- **Re-entry**: No listed role since 04/2023; prefer roles that value international experience
+- **Location**: Based in St. Augustine, FL; local on-site/hybrid or remote preferred
+- **Professional development**: CPSM in progress; employer certification support is a plus
 
 ### 6. Salary Benchmark (Optional)
 
