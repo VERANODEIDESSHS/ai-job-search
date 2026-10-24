@@ -16,7 +16,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Name:** Hiramis Castillo Barraza
 - **Location:** St. Augustine, FL 32080, USA
 - **Languages:** Spanish (native/bilingual), English (full professional), French (professional working)
-- **Status:** Not stated on resume (last listed role ended 04/2023) — confirm current status and US work authorization via `/setup --section identity`
+- **Work authorization:** US permanent resident (green card); naturalization in progress. Authorized to work for any US employer, no sponsorship needed. Not yet eligible for roles whose posting explicitly requires US citizenship until naturalized *(not on resume; confirmed by the user on 2026-10-24)*
+- **Status:** Current employment not stated on resume (last listed role ended 04/2023) — confirm via `/setup --section identity`
 - **Headline:** "Supply Chain, Procurement & Operations"
 - **Phone:** 904-580-1586
 - **Email:** hcast@icloud.com
