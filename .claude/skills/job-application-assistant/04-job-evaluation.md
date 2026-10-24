@@ -53,7 +53,8 @@ Does the role and company culture match the behavioral profile?
 - Requires relocation outside Florida: FLAG (default FAIL unless user confirms openness)
 - Requires US work authorization / no sponsorship: PASS (green card holder)
 - ITAR / EAR "U.S. person" requirement: PASS (lawful permanent resident qualifies)
-- Requires US citizenship (e.g. federal contractor, Public Trust or security clearance): FAIL until naturalization completes; note as "revisit after citizenship"
+- Posting explicitly states "U.S. citizenship required" (common for security clearances and some Public Trust roles): FAIL until naturalization completes; note as "revisit after citizenship"
+- Federal contractor or Public Trust **without** an explicit citizenship statement: PASS, but flag for the user to confirm eligibility (many accept lawful permanent residents)
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?

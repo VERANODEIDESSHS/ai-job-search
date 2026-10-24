@@ -9,7 +9,7 @@
 - **Email:** hcast@icloud.com
 - **LinkedIn:** [YOUR_LINKEDIN_URL]
 - **Languages:** Spanish (native/bilingual), English (full professional), French (professional working)
-- **Work authorization:** US permanent resident (green card); naturalization in progress. No sponsorship needed; qualifies as a "U.S. person" for ITAR/EAR roles. Not yet eligible for roles requiring US citizenship or federal clearance
+- **Work authorization:** US permanent resident (green card); naturalization in progress. No sponsorship needed; qualifies as a "U.S. person" for ITAR/EAR roles. Not yet eligible for roles whose posting explicitly requires US citizenship *(not on resume; confirmed by the user on 2026-10-24)*
 - **Status:** [TO CONFIRM] Current employment status; last listed role ended 04/2023
 - **Constraints:** [TO CONFIRM] Default: Northeast Florida on-site/hybrid or US remote; relocation needs discussion
 
