@@ -51,7 +51,9 @@ Does the role and company culture match the behavioral profile?
 - US remote: PASS
 - Elsewhere in Florida (hybrid, longer commute): FLAG (confirm with user)
 - Requires relocation outside Florida: FLAG (default FAIL unless user confirms openness)
-- Requires US work authorization or sponsorship statement: FLAG until authorization status is confirmed in profile
+- Requires US work authorization / no sponsorship: PASS (green card holder)
+- ITAR / EAR "U.S. person" requirement: PASS (lawful permanent resident qualifies)
+- Requires US citizenship (e.g. federal contractor, Public Trust or security clearance): FAIL until naturalization completes; note as "revisit after citizenship"
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
